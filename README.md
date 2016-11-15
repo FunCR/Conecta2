@@ -2,7 +2,7 @@
 
 Buenas, nos alegra que estes aqui! Quiere decir que estuviste en el curso de Conecta2 y quieres continuar innovando por tu cuenta.
 
-En este repositorio encontraras toda la informacion del programa Conecta2 y sera util en cada una de als cosas que hagas.
+En este repositorio encontraras toda la informacion del programa Conecta2 y sera util en tu salon de clase.
 
 
 
